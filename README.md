@@ -23,6 +23,5 @@
  <div>
 
 -----
-Créditos: [LachlanDev](https://github.com/LachlanDev)
 
-Última Edición: 1/10/2021
+Última Edición: 12/05/2024
