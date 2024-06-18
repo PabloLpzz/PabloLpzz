@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Acerca de mí
-¡Hola! Soy un apasionado de la informática desde siempre, autodidacta y curioso por la tecnología y su funcionamiento. Me encanta afrontar nuevos desafíos y estoy constantemente buscando oportunidades para aprender y crecer. He completado el grado de Técnico de Sistemas Microinformáticos y Redes, y actualmente estoy en el último curso de un grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+¡Hola! Soy un apasionado de la informática desde siempre, autodidacta y curioso por la tecnología y su funcionamiento. Me encanta afrontar nuevos desafíos y estoy constantemente buscando oportunidades para aprender y crecer. He completado el grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM), y también el grado de Técnico de Sistemas Microinformáticos y Redes.
 
 -------------------
 
