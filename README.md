@@ -6,7 +6,7 @@
 -------------------
 
 ## Contacto
-[![Google Chrome](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://pablolopez.site/)
+[![Google Chrome](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://pablolopez.me/)
 
 
 -------------------
